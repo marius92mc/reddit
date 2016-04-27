@@ -4,6 +4,8 @@
 *.pyo
 .DS_Store
 
+reddit-env/
+
 # mako
 r2/data/
 *.html.py
